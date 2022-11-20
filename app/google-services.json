@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904372618986",
+    "project_id": "firestore-f55121070-ebb6b",
+    "storage_bucket": "firestore-f55121070-ebb6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904372618986:android:92f7783a6b08878593b993",
+        "android_client_info": {
+          "package_name": "com.Yunitaanggeraini_F55121070.firestore_f55121070"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904372618986-3ov0fmpabu3mp2qmdfeetk67pjos6g6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgJ2Q_BWgqQqJw2oJejbzNfRzCjRIWEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904372618986-3ov0fmpabu3mp2qmdfeetk67pjos6g6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
